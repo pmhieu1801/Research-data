@@ -1,0 +1,8 @@
+# Dependencies for toolv3.py
+# Standard libraries (os, time) are not listed.
+
+requests
+pandas
+python-dotenv
+selenium>=4.6.0
+langdetect
